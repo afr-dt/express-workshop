@@ -4,6 +4,8 @@
 
 ### Run app
 
+`yarn install`
+
 `yarn start`
 
 or
